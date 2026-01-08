@@ -4,5 +4,6 @@ Me he propuesto a aprender programaciona via cursos online y obtener un nivel de
 
 # 🧠Estudios realizados (cursos)
 
+        2025
 | Curso                      | Estado   |
 |:--------------------------|:--------:|

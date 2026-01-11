@@ -12,3 +12,9 @@ Me he propuesto a aprender programacion via cursos online y obtener un nivel de 
 |[VsCode for education](https://vscode.dev/edu?courseId=intro-to-python&workspace-scheme=vscode-edu-workspace&profile=default-dark&vscode-lang=es-ve&otac=iktLUGxhkg&requestId=b99f9564-79ae-445e-be25-b26f9ac89717&region=eastus#account-id=92c650eb-e644-4ae1-b243-441e21efc28c) |     ⏳     |  
 
 ### 2025 (finales) - 2026 
+| Curso                     | Estado   |
+|:--------------------------|:--------:|
+|[Git y Github](https://www.udemy.com/course/curso-completo-git-github-aprende-desde-cero/learn/lecture/44025606#overview)  |     ⏳     |                           
+|                            
+|                                                
+                          

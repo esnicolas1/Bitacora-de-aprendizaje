@@ -7,5 +7,6 @@ Me he propuesto a aprender programacion via cursos online y obtener un nivel de 
 ### 2025 (mediados)
 | Curso                     | Estado   |
 |:--------------------------|:--------:|
+|                           |          |
 |[Iniciando Python (solo modulo 1)](https://www.coursera.org/learn/programacion-python/home/module/1)                          |     ✅     |
 

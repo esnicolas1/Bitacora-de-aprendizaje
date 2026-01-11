@@ -14,7 +14,5 @@ Me he propuesto a aprender programacion via cursos online y obtener un nivel de 
 ### 2025 (finales) - 2026 
 | Curso                     | Estado   |
 |:--------------------------|:--------:|
-|[Git y Github](https://www.udemy.com/course/curso-completo-git-github-aprende-desde-cero/learn/lecture/44025606#overview)  |     ⏳     |                           
-|                            
-|                                                
-                          
+|[Git y Github desde 0](https://www.udemy.com/course/curso-completo-git-github-aprende-desde-cero/learn/lecture/44025606#overview)  |     ⏳     |                           
+                        
